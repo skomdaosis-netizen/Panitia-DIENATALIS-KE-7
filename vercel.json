@@ -1,6 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/panitia", "destination": "/panitia.html" },
-    { "source": "/(.*)", "destination": "/index.html" }
-  ]
-}
