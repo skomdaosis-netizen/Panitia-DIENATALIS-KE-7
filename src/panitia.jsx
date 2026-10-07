@@ -11,7 +11,8 @@ const CANVAS_WIDTH = 3072;
 const CANVAS_HEIGHT = 4096;
 
 // Caption tetap untuk panitia (tidak bergantung pada pilihan lomba)
-const CAPTION_TEXT = `🏁 *I'M READY TO RUN THE RACE!* 🔥\n\nHalo! Aku [Nama] dari [Sie/Divisi], dan aku siap menjadi bagian dari perjalanan SKOMDA DIESNATALIS 7! 🎉\nBukan hanya sebagai panitia, tapi sebagai bagian dari orang-orang yang akan bekerja, berproses, dan menciptakan cerita di balik perayaan Dies Natalis ke-7 SMK Telkom Sidoarjo.\n\nDengan semangat:\n✨ "Run the Race, Leave Your Trace" ✨\n\nSetiap persiapan, setiap tantangan, dan setiap langkah yang kami jalani akan menjadi bagian dari jejak yang kita tinggalkan bersama.\n\nLet's work together, make it happen, and create a celebration worth remembering! 🚀\n\n🏁 RUN YOUR RACE.\n✨ LEAVE YOUR TRACE.\nI'M READY TO MAKE THIS DIESNATALIS UNFORGETTABLE. 🔥\n\n@smktelkomsda\n@osis.smktelkomsda\n@mpk.smktelkomsda\n\n#SkomdaDiesnatalis7 #RunTheRaceLeaveYourTrace #Diesnatalis7 #SMKTelkomSidoarjo #PanitiaDiesnat7`;
+
+const CAPTION_TEXT = `🏁 *I'M READY TO RUN THE RACE!* 🔥\n\nHalo! Aku [Nama] dari [Sie/Divisi], dan aku siap menjadi bagian dari perjalanan SKOMDA DIESNATALIS 7! 🎉\nBukan hanya sebagai panitia, tapi sebagai bagian dari orang-orang yang akan bekerja, berproses, dan menciptakan cerita di balik perayaan Dies Natalis ke-7 SMK Telkom Sidoarjo.\n\nDengan semangat:\n✨ "Run Your Race, Leave Your Trace" ✨\n\nSetiap persiapan, setiap tantangan, dan setiap langkah yang kami jalani akan menjadi bagian dari jejak yang kita tinggalkan bersama.\n\nLet's work together, make it happen, and create a celebration worth remembering! 🚀\n\n🏁 RUN YOUR RACE.\n✨ LEAVE YOUR TRACE.\nI'M READY TO MAKE THIS DIESNATALIS UNFORGETTABLE. 🔥\n\n@smktelkomsda\n@osis.smktelkomsda\n@mpk.smktelkomsda\n\n#SkomdaDiesnatalis7 #RunTheRaceLeaveYourTrace #Diesnatalis7 #SMKTelkomSidoarjo #PanitiaDiesnat7`;
 
 const PanitiaApp = () => {
   return (
